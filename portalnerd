@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTAL NERD</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+</head>
+
+<body>
+    <div class="superior">
+        <a href="../Help/index.html">HOME</a>
+        <a href="../6. Projeto final PHP/produtos.html">NOVAS NOTÍCIAS</a>
+        <a href="../6. Projeto final PHP/serviços.html">MAIS LIDAS</a>
+        <a href="../6. Projeto final PHP/login.html">QUADRINHOS</a>
+        <a href="../Help/fandome.html">FANDOME</a>
+
+    </div>
+    <div class="container">
+        <div class="menul">
+            <a href="#" class="active">Menu</a>
+            <a href="#">Jogos DC's</a>
+            <a href="#">Animações</a>
+            <a href="#">Filmes</a>
+            <a href="#">Justiça jovem</a>
+            <a href="#">Liga Da Justiça</a>
+        </div>
+        <img src="img/dc.jpg" alt="HelpDesk" title="HelpDesk">
+        <br>
+        <br>
+
+    </div>
+
+    <center><b>
+            <p>Naomi: nova série ganha primeira cena no DC FanDome 2021</p>
+        </b></center>
+
+    <div class="capa">
+        <img class="imagem-capa" src="img/naomi.jpg">
+    </div>
+    <b>
+        <p>A série Naomi, nova aposta da DC no canal The CW, ganhou novas cenas no DC FanDome 2021. O evento, que é o
+            maior da marca no ano, abrangeu diversas informações sobre séries, filmes, jogos e animações da companhia.
+        </p>
+    </b>
+
+    <b>
+        <p>A produção, criada por Ava DuVernay, é baseada na história de Naomi McDuffie, uma heroína de histórias em
+            quadrinhos criada em 2019 pelo roteirista Brian Michael Bendis. Na trama, uma jovem menina descobre possuir
+            poderes especiais e busca vingar a morte de seus pais biológicos.</p>
+    </b>
+    <b>
+        <p>O elenco da série tem Kaci Walfall, Barry Watson, Mary-Charles Jones, Aidan Gemme, Mouzam Makkar, Will Meyes
+            e Daniel Puig.</p>
+    </b>
+    <b>
+        <p>A série Naomi deve estrear no primeiro semestre de 2022 no canal The CW e também deve fazer parte do catálogo
+            do HBO Max.</p>
+    </b>
+
+    <center><b><p>Confira o teaser:</p></b></center>
+
+    <center><video width="320" height="240" controls="controls" autoplay="autoplay">
+            <source src="img/naomiv.mp4" type="video/mp4">
+            <object data="" width="320" height="240">
+                <embed width="320" height="240" src="img/naomiv.mp4"></center>
+      
+      
+                    
+<br>
+<br>
+
+
+
+
+
+
+</body>
+
+</html>
